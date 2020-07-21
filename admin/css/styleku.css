@@ -1,0 +1,9 @@
+.containerku{
+			background:#CCCCCC;
+			width:900px;
+			padding:10px;
+			}
+.containerku li{float:left;
+				list-style:none;
+				margin-right:20px;}
+
